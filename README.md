@@ -32,7 +32,7 @@ The Smartphone Recommendation System is a machine learning project aimed at reco
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/phone-recommendation-system.git
+   git clone https://github.com/thisisarjun1000905/Smartphone-Recommendation-System.git
    ```
 2. Navigate to the project directory:
    ```bash
@@ -42,22 +42,6 @@ The Smartphone Recommendation System is a machine learning project aimed at reco
    ```bash
    pip install -r requirements.txt
    ```
-
-## Usage 🏃‍♂️
-
-1. Run the preprocessing script to prepare the dataset:
-   ```bash
-   python preprocess.py
-   ```
-2. Train the model:
-   ```bash
-   python train.py
-   ```
-3. Get recommendations by running the recommendation script:
-   ```bash
-   python recommend.py --user_input "User's input here"
-   ```
-
 ## Future Work 🚀
 - Incorporate user reviews and ratings into the recommendation engine.
 - Implement a web-based interface for easier interaction.
