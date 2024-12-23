@@ -1,11 +1,7 @@
 # Smartphone Recommendation System 📱
 
-![Smartphone Icon](https://via.placeholder.com/150?text=Smartphone)
-
 ## Overview 🌟
 The Smartphone Recommendation System is a machine learning project aimed at recommending the most suitable smartphones based on user preferences. The system uses clustering techniques, similarity measures, and other machine learning algorithms to group similar smartphones and provide tailored recommendations.
-
-![Feature Icon](https://via.placeholder.com/150?text=Features)
 
 ## Features 🔍
 - **Data Preprocessing**: Cleans and preprocesses a dataset of phone specifications.
@@ -13,7 +9,6 @@ The Smartphone Recommendation System is a machine learning project aimed at reco
 - **Similarity Measures**: Uses K-Nearest Neighbors (KNN), cosine similarity, and Pearson correlation to improve recommendation accuracy.
 - **Feature Analysis**: Provides insights into feature distribution across clusters.
 
-![Workflow Icon](https://via.placeholder.com/150?text=Workflow)
 
 ## Workflow 🛠️
 
@@ -31,7 +26,7 @@ The Smartphone Recommendation System is a machine learning project aimed at reco
 4. **Evaluation**:
    - Evaluate the model using metrics like silhouette score and user feedback.
 
-![Workflow Diagram](https://via.placeholder.com/400x300?text=Workflow+Diagram)
+![Workflow Diagram](https://github.com/thisisarjun100905/Smartphone-Recommendation-System/blob/main/Untitled%20diagram-2024-12-23-165154.png?raw=true)
 
 ## Installation 💻
 
@@ -78,8 +73,6 @@ The system successfully groups smartphones into meaningful clusters and provides
 
 ## Contributors 🤝
 - [Your Name](https://github.com/yourusername) - Arjun
-![License Icon](https://via.placeholder.com/150?text=License)
-
 ## License 📜
 This project is licensed under the MIT License. See the LICENSE file for details.
 
