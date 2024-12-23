@@ -58,14 +58,6 @@ The Smartphone Recommendation System is a machine learning project aimed at reco
    python recommend.py --user_input "User's input here"
    ```
 
-## Results 📊
-The system successfully groups smartphones into meaningful clusters and provides accurate recommendations. Key metrics:
-- **Silhouette Score**: 0.75
-- **Accuracy**: 92%
-- **User Satisfaction**: 90%
-
-![Future Icon](https://via.placeholder.com/150?text=Future+Work)
-
 ## Future Work 🚀
 - Incorporate user reviews and ratings into the recommendation engine.
 - Implement a web-based interface for easier interaction.
