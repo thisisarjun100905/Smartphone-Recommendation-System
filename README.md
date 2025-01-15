@@ -48,7 +48,7 @@ The Smartphone Recommendation System is a machine learning project aimed at reco
 - Expand the dataset to include more recent smartphone models.
 
 ## Contributors 🤝
-- [Arjun](https://github.com/yourusername)
+- [Arjun](https://github.com/thisisarjun100905)
 ## License 📜
 This project is licensed under the MIT License. See the LICENSE file for details.
 
